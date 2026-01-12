@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
             <img src={assets.logo} alt="" className='mb-5 w-32' />
             <p className='w-full md:w-3/2 text-gray-600'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus libero eaque voluptatibus illo incidunt. Facilis.</p>
+            FashionMart is your destination for modern, affordable fashion — blending quality, comfort, and contemporary design for everyday style.</p>
         </div>
 
         <div>
@@ -25,7 +25,7 @@ const Footer = () => {
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
                 <li>+1-212-456-7890</li>
-                <li>contact@foreveryou.com</li>
+                <li>contact@fmyou.com</li>
             </ul>
         </div>
 
@@ -33,7 +33,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>©Copyright 2025@ forever.com - All Right Reserved</p>
+        <p className='py-5 text-sm text-center'>©Copyright 2025@ fashionmart.com - All Right Reserved</p>
        
       </div>
     </div>
